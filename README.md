@@ -68,7 +68,7 @@ I'm a 🇷🇺 Software Developer living in 🇻🇳 and working at L'Oréal.
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=maukur&theme=nightowl&hide_border=true&no-bg=true&margin-w=4)](https://github-readme-stats.vercel.app/api/top-langs/?username=maukur)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=maukur&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=maukur&theme=discord&no-frame=true&no-bg=true)
 
 <br>
 
