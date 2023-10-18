@@ -41,7 +41,7 @@ I'm a 🇷🇺 Software Developer living in 🇻🇳 and working at L'Oréal.
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=5150686745739600607)
 
 
-## Let's connect? 🤝
+## 🤝 Let's connect?
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=swift&logoColor=white)](https://www.facebook.com/maukur)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=swift&logoColor=white)](https://instagram.com/rognaruk) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=swift&logoColor=white)](https://www.linkedin.com/in/tim-tis) 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rognaruk)
@@ -64,7 +64,6 @@ I'm a 🇷🇺 Software Developer living in 🇻🇳 and working at L'Oréal.
 ## 📊 Some GitHub Stats:
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maukur&theme=nightowl)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maukur) 
-[![](https://github-readme-stats.vercel.app/api?username=maukur&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)]<br/>
 [![](https://github-readme-streak-stats.herokuapp.com/?user=maukur&theme=nightowl&hide_border=true&no-bg=true&margin-w=4)](https://github-readme-streak-stats.herokuapp.com/?user=maukur)<br/>
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=maukur&theme=nightowl&hide_border=true&no-bg=true&margin-w=4)](https://github-readme-stats.vercel.app/api/top-langs/?username=maukur)
 
