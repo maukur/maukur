@@ -26,7 +26,7 @@
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=5150686745739600607)
 
 
-## 🌐 My socials:
+## Let's connect? 🤝
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=swift&logoColor=white)](https://www.facebook.com/maukur)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=swift&logoColor=white)](https://instagram.com/rognaruk) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=swift&logoColor=white)](https://www.linkedin.com/in/tim-tis) 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rognaruk)
