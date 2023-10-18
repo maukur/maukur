@@ -54,6 +54,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=maukur&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
+<br>
+
 [![](https://visitcount.itsvg.in/api?id=maukur&label=maukur&icon=7&pretty=false)](https://visitcount.itsvg.in)
 
 <br>
