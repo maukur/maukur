@@ -1,11 +1,26 @@
 # Hi there everyone 👋, I'm Artem 
-<br>
-💥 I’m currently not looking for a job as an iOS dev<br> 
-🧑🏻‍💻 But I’m looking to collaborate on some interesting iOS projects<br>
+
+I'm a 🇷🇺 Software Developer living in 🇻🇳 and working at L'Oréal.
 <br>
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maukur&theme=nightowl)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maukur) 
-<br>
+💥 I’m currently not looking for a job as an iOS dev<br> 
+🧑🏻‍💻 But I’m looking to collaborate on some interesting iOS projects<br>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 
 ## 📲 SwiftUI Viper Arhitecture: 
 
@@ -34,7 +49,7 @@
 
 
 ## 💻 Tech Stack:
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)  ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)![SwiftUI](https://img.shields.io/badge/SwiftUI-000?style=for-the-badge&logo=swift&logoColor=30A3DC) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 ![Viper](https://img.shields.io/badge/Viper-blue.svg?colorA=212121&colorB=007BFF&style=for-the-badge)
 ![MVVM](https://img.shields.io/badge/MVVM-blue.svg?colorA=212121&colorB=FF007B&style=for-the-badge)
@@ -47,7 +62,9 @@
 
 
 ## 📊 Some GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=maukur&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maukur&theme=nightowl)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maukur) 
+[![](https://github-readme-stats.vercel.app/api?username=maukur&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)]<br/>
 [![](https://github-readme-streak-stats.herokuapp.com/?user=maukur&theme=nightowl&hide_border=true&no-bg=true&margin-w=4)](https://github-readme-streak-stats.herokuapp.com/?user=maukur)<br/>
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=maukur&theme=nightowl&hide_border=true&no-bg=true&margin-w=4)](https://github-readme-stats.vercel.app/api/top-langs/?username=maukur)
 
