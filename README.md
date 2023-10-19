@@ -75,3 +75,6 @@ I'm a 🇷🇺 Software Developer living in 🇻🇳 and working at L'Oréal.
 [![](https://visitcount.itsvg.in/api?id=maukur&label=maukur&icon=7&pretty=false)](https://visitcount.itsvg.in)
 
 <br>
+
+## ☕️ Donate:
+[![](https://img.shields.io/badge/-Buy%20me%20a%20coffee-EDD347?style=for-the-badge&logo=ko-fi)](https://www.buymeacoffee.com/x68mf5jw4yl)
