@@ -1,4 +1,4 @@
-# Hi there everyone 👋, I'm Artem 
+# Hi there everyone 👋, I'm Tim 
 
 I'm a 🇷🇺 Software Developer living in 🇻🇳 and working at L'Oréal.
 <br>
