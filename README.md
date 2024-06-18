@@ -1,6 +1,6 @@
 # Hi there everyone 👋, I'm Tim 
 
-I'm a 🇷🇺 Software Developer living in 🇻🇳 and working at L'Oréal.
+I'm a 🇷🇺 Software Developer living in 🇬🇪 and working at L'Oréal.
 <br>
 
 💥 I’m currently not looking for a job as an iOS dev<br> 
